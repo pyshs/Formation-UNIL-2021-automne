@@ -10,8 +10,6 @@ Il existe plusieurs manières de l'utiliser :
 - Sur votre ordinateur, avec Anaconda (ci-dessous)
 - Sur le Cloud, avec différentes solutions, par exemple Google colab https://colab.research.google.com/
 
-Pour les premières séances, le Cloud est une solution souple qui évite l'installation.
-
 ### Installation d'Anaconda
 
 Anaconda est un environnement qui fournit l'ensemble des éléments nécessaires pour exécuter du code python. Il permet de construire des environnements (une version du langage et de librairies spécifiques) et de travailler au sein de ces environnements permettant d'en avoir plusieurs (par exemple, pour tester des versions différentes de librairies, etc.)
