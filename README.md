@@ -19,9 +19,9 @@ Anaconda est un environnement qui fournit l'ensemble des éléments nécessaires
 - Télécharger Anaconda pour votre OS : https://www.anaconda.com/distribution/
 - Installer (suivant que vous soyez sous Windows, Linux ou Mac, la procédure va changer)
 - Lancer Anaconda pour créer un environnement de travail
-  - Sur windows : Aller dans environnements > Create > donner un nom (ex. p37) et une version de python 3.7 (__Attention bien installer la version 3.7 ou plus de Python __)
-  - Sur linux/mac : Ouvrir un terminal, puis créer un environnement en tappant la commande : conda create --name p37 python=3.7 (pour toute information sur les commandes conda : https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
-- Lancer python (sur windows en lançant Anaconda ; sous linux/mac en tapant la commande source activate p37 dans un terminal)
+  - Sur windows : Aller dans environnements > Create > donner un nom (ex. p38) et une version de python 3.8 (__Attention bien installer la version 3.8 ou plus de Python __)
+  - Sur linux/mac : Ouvrir un terminal, puis créer un environnement en tappant la commande : conda create --name p38 python=3.8 (pour toute information sur les commandes conda : https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+- Lancer python (sur windows en lançant Anaconda ; sous linux/mac en tapant la commande source activate p38 dans un terminal)
 - lancez un terminal (vous pouvez le faire sous le logiciel Anaconda) et vérifiez que ipython est bien installé en tapant ipython de manière similaire, lancez Jupyter notebook en tapant jupyter notebook
 
 
