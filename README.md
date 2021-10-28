@@ -1,6 +1,6 @@
 # Formation PySHS UNIL automne 2021
 
-Intervenants : Émilien Schultz et Léo Mignot
+Intervenants : [Émilien Schultz](http://eschultz.fr) et Léo Mignot
 
 ## Déroulement de la formation
 
