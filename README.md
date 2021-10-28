@@ -1,12 +1,14 @@
 # Formation PySHS UNIL automne 2021
 
+Intervenants : Émilien Schultz et Léo Mignot
+
 ## Déroulement de la formation
 
-Les séances ont lieu en ligne les mardis de 16h à 18h, suivi d'un espace libre d'échange après la séance pour ceux et celles qui sont disponibles. En fonction des centres d'intérêt des inscrit.e.s, certaines thématiques abordées pourront être modifiées. 
+Les séances ont lieu en ligne les mardis de 16h à 18h, suivi d'un espace libre d'échange après la séance pour ceux et celles qui sont disponibles. En fonction des centres d'intérêt des inscrit.e.s, certaines thématiques abordées pourront être modifiées. [Page de la formation](https://news.unil.ch/display/1633344954933).
  
 Prérequis pour la première séance : installation du logiciel Anaconda qui installe les outils nécessaires (Python ainsi que les autres interfaces) : https://www.anaconda.com/products/individual
  
- Dépôt de la formation : https://github.com/pyshs/Formation-UNIL-2021-automne
+Dépôt de la formation : https://github.com/pyshs/Formation-UNIL-2021-automne
  
 ### 02.11 - Pourquoi programmer en Python? 
  
