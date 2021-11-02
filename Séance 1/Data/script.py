@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-__author__ = "Émilien Schultz"
-
 nombre_articles = 0
 motcle = "Raoult"
 titres = [' Bolsonaro sur le banc des accusés après les ravages du Covid à Manaus ',
