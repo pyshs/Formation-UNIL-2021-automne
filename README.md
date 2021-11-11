@@ -14,7 +14,7 @@ Dépôt de la formation : https://github.com/pyshs/Formation-UNIL-2021-automne
  
 Cette première séance sera l'occasion de faire un petit tour du langage Python et de l'univers qui l'entoure, ceci pour identifier les principaux usages en sciences humaines et sociales. Nous verrons ensuite de manière pratique les bases du langage en nous familiarisant avec les Notebook Jupyter permettant d'exécuter des lignes de code de manière interactive. 
  
-### :warning: DATE A DEPLACER 9.11 - Les blocs de base du langage
+### :warning: Date déplacée. 11/11 - Les blocs de base du langage
 
 Cette séance portera sur la structure d'un script autour des principaux blocs qui constituent un script : boucle, condition, ouverture d'un fichier, mais sera aussi l'occasion d'approfondir nos connaissances sur la manipulation de données. Nous verrons en particulier comment manipuler des données textuelles.
  
