@@ -2,6 +2,9 @@
 
 Intervenants : [Émilien Schultz](http://eschultz.fr) et Léo Mignot
 
+(:warning: Github a du mal à rendre les Notebooks en ligne ; si cela vous arrive, Vous pouvez télécharger tous le dossier avec Code > Download zip)
+
+
 ## Déroulement de la formation
 
 Les séances ont lieu en ligne les mardis de 16h à 18h, suivi d'un espace libre d'échange après la séance pour ceux et celles qui sont disponibles. En fonction des centres d'intérêt des inscrit.e.s, certaines thématiques abordées pourront être modifiées. [Page de la formation](https://news.unil.ch/display/1633344954933).
