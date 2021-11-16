@@ -1,6 +1,6 @@
 ## Exercice 1
 
-Récupérer une page Wikipédia (celle sur la suisse) avec la bibliothèque et l'enregistrer dans un fichier texte
+Récupérer une page Wikipédia (celle sur la suisse) avec la bibliothèque Requests et l'enregistrer dans un fichier texte
 
 ## Exercice 2
 
