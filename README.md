@@ -33,7 +33,7 @@ Nous allons plonger un peu plus en détail dans l'univers spécifique de la bibl
  
 Une fois les données nettoyées et recodées, la porte est ouverte aux traitements plus avancées. Nous verrons comment mettre en oeuvre les statistiques habituelles en SHS, et comment produire des visualisations en nous appuyant sur Pandas et la bibliothèque Matplotlib. 
  
-### 07.12 - Petit tour des usages avancées de traitements des données
+### 14.12 - Petit tour des usages avancées de traitements des données
 
 Les séances précédentes ont permis de voir plusieurs usages de Python, en particulier orientés vers le traitement de données. Dans cette séance, nous aborderons des usages plus avancés allant de l'automatisation dans la collecte de données à la production de cartes ou la mise en place de stratégies de traitement de corpus textuels ou d'images.
 
