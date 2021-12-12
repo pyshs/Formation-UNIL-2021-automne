@@ -14,4 +14,4 @@ Ce document comportera :
 4. Potentiellement, les limites perçues de ces approches par rapport aux interrogations, en particulier en comparaison avec d'autres stratégies.
 5. Les éléments manquant à la fin de la formation pour passer à la pratique.
 
-La date limite pour rendre ce document est le : **21/12/2021**
+La date limite pour rendre ce document est le : **21/12/2021**, envoyé par mail.
